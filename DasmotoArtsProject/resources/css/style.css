@@ -1,0 +1,37 @@
+/* The Typeface for the entire document can be specified here, correct? */
+html {
+  font-family: Helvetica, sans-serif;
+}
+
+/* The H1 element can have a background image */
+h1 {
+  background-image: url("/home/eric/pCloudDrive/Documents/Codecademy Pro Intensive - Build Websites From Scratch/Unit 2 - CSS/DasmotoArtsProject/resources/images/01-pattern.jpeg");
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+  text-align: center;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+}
+
+/* "Starting At..." Prices */
+.prices {
+  font-weight: bold;
+  color: blue;
+}
+
+#brushes {
+  background-color: mediumspringgreen;
+}
+
+#frames {
+  background-color: lightcoral;
+}
+
+#paint {
+  background-color: skyblue;
+}
